@@ -1,0 +1,6 @@
+#include<iostream>
+using nsmaespace std;
+int main()
+{
+    
+}
